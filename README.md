@@ -4,6 +4,8 @@
 
 This sleek and minimalistic web application is designed to help users tackle 50 easy JavaScript problem-solving questions. It features a responsive design with smooth animations and a monochromatic black theme, providing an engaging user experience.
 
+live demo : https://javascript-easy-questions-answer-app.netlify.app/
+
 ## Key Features
 
 - **Dynamic Content**: Developed a custom API using Google Apps Script to retrieve and display questions and answers seamlessly.
